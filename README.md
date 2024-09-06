@@ -7,7 +7,7 @@
   * Student in accelerated **Bachelor's + Master's program**
 * Graduated from **Marine Academy of Technology and Environmental Science** for high school (2020-2024)
   * **4 years** of independent research
-  * Presented research at **Stockton University's Jersey Shore Science Fair** and **Kean University's NJ Academy of Science conference**
+  * Presented research at **Stockton University's Jersey Shore Science Fair** and **Kean University's NJ Academy of Science meeting**
 
 ## Skills 🏆
 [![My Skills](https://skillicons.dev/icons?i=py,r,django,js,html,css)](https://skillicons.dev)
