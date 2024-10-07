@@ -1,4 +1,4 @@
-# Hi! I'm Anna Pitera. 👩‍💻
+# Anna Pitera
 
 ## About me
 * Currently attending Monmouth University in West Long Branch, NJ (Freshman)
