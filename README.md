@@ -3,7 +3,7 @@ Hi! I'm Anna Pitera. I'm an enthusiastic and accomplished student open to learni
 
 ## Education
 * Currently attending Monmouth University in West Long Branch, NJ (Sophomore)
-  * Graduating with a B.S. in Computer Science and a B.A. in History in 2028 (double major)
+  * Graduating with a B.S. in Computer Science in 2028
   * Member of Honors School
   * Student in accelerated Bachelor's + Master's program for Computer Science
 * Graduated from Marine Academy of Technology and Environmental Science for high school (2020-2024)
