@@ -10,8 +10,5 @@ Hi! I'm Anna Pitera. I'm an enthusiastic and accomplished student open to learni
   * 4 years of independent CS research
   * Presented research at Stockton University's Jersey Shore Science Fair and Kean University's NJ Academy of Science meeting
 
-## Current Project
-Right now, I'm in the early planning stages for my Honors Capstone project at Monmouth University. It will incorporate machine learning, web scraping, natural language processing, and web design/development.
-
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=py,r,django,js,html,css,mysql,git,vscode)](https://skillicons.dev)
