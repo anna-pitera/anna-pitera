@@ -8,7 +8,6 @@ Hi! I'm Anna Pitera. I'm an enthusiastic and accomplished student open to learni
   * Student in accelerated Bachelor's + Master's program for Computer Science
 * Graduated from Marine Academy of Technology and Environmental Science for high school (2020-2024)
   * 4 years of independent CS research
-  * Presented research at Stockton University's Jersey Shore Science Fair and Kean University's NJ Academy of Science meeting
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=py,r,django,js,html,css,mysql,git,vscode)](https://skillicons.dev)
